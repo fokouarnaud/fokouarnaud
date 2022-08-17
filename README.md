@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fokouarnaud
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on project using js frontend library like Reactjs
+- 🌱 I’m currently learning Full Stack Web Developement
+- 💞️ I’m looking to collaborate on project using  frontend library like Reactjs and backend framework like Flask
 - 📫 How to reach me : [my portfolio](https://fokou-arnaud.netlify.app/)
 
 <!---
